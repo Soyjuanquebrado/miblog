@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mi Blog Financiero y Personal</title>
+  <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+  <header>
+    <h1>Bienvenido a Mi Blog</h1>
+    <p>Compartiendo mi experiencia en el mundo financiero y mi vida diaria</p>
+    <nav>
+      <a href="#servicios">Servicios</a>
+      <a href="#blog">Blog</a>
+      <a href="#contacto">Contacto</a>
+    </nav>
+  </header>
+
+  <main>
+    <section id="servicios">
+      <h2>Servicios Financieros</h2>
+      <ul>
+        <li>Asesoría en inversiones</li>
+        <li>Educación financiera personalizada</li>
+        <li>Planificación de ahorro y retiro</li>
+      </ul>
+    </section>
+
+    <section id="blog">
+      <h2>Blog Personal</h2>
+      <article>
+        <h3>Mi rutina diaria</h3>
+        <p>Hoy comencé el día con una caminata al amanecer, luego revisé los mercados y atendí consultas de clientes...</p>
+      </article>
+      <article>
+        <h3>¿Cómo gestionar tus finanzas en tiempos de inflación?</h3>
+        <p>Una de las claves es diversificar tus ingresos y mantener un fondo de emergencia. Aquí te explico cómo hacerlo...</p>
+      </article>
+    </section>
+
+    <section id="contacto">
+      <h2>Contacto</h2>
+      <p>Puedes escribirme a <a href="mailto:tuemail@ejemplo.com">tuemail@ejemplo.com</a> o encontrarme en redes sociales.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Mi Blog Financiero y Personal</p>
+  </footer>
+</body>
+</html>
